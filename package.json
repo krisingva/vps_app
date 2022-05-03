@@ -1,0 +1,15 @@
+{
+  "name": "test_for_do_vps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_index.js",
+  "scripts": {
+    "start": "node my_index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
